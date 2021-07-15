@@ -1,7 +1,7 @@
 # php-start
 
 Simple apache-php server mapped to port **8080**. 
-
+The `./src` folder is mapped to `/var/www/html`, so just use accordingly.
 ## Usage
 
 ```sh
